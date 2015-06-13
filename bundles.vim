@@ -85,6 +85,9 @@ Bundle 'tpope/vim-markdown'
 "------- Go ----------
 Bundle 'fatih/vim-go'
 
+"------- Crystal ----------
+Bundle 'rhysd/vim-crystal'
+
 "------- FPs ------
 Bundle 'kien/rainbow_parentheses.vim'
 " Bundle 'wlangstroth/vim-racket'
@@ -101,5 +104,6 @@ Bundle 'tpope/vim-vividchalk'
 Bundle 'Lokaltog/vim-distinguished'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'fisadev/fisa-vim-colorscheme'
+Bundle 'w0ng/vim-hybrid'
 
 filetype plugin indent on     " required!

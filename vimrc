@@ -14,7 +14,7 @@ syntax on
 "--------
 " color scheme
 set background=dark
-color solarized
+color hybrid
 
 " highlight current line
 au WinLeave * set nocursorline nocursorcolumn
@@ -249,7 +249,7 @@ nnoremap ; :
 if has("gui_running")
     set go=aAce  " remove toolbar
     "set transparency=30
-    set guifont=Monaco:h13
+    set guifont="Ubuntu Mono:h12"
     set showtabline=2
     set columns=140
     set lines=40
