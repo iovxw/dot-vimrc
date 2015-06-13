@@ -51,6 +51,11 @@ Bundle 'scrooloose/syntastic'
 Bundle 'bronson/vim-trailing-whitespace'
 
 "-------------
+" Git
+"-------------
+Bundle 'airblade/vim-gitgutter'
+
+"-------------
 " Other Utils
 "-------------
 " Bundle 'humiaozuzu/fcitx-status'
